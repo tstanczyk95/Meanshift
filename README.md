@@ -1,7 +1,6 @@
 # Meanshift
 Meanshift based image segmentation assignment realized within the "Computer Vision" course.
-
-<br/><br/>
+<br/>
 In order to provide correct working of the attached functions, the following packages must be loaded at the very beginning:
 <ul>
   <li>statistics</li>
