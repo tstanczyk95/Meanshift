@@ -8,6 +8,6 @@ In order to provide correct working of the attached functions, the following pac
 </ul>  
 
 This can be performed by executing the following lines in the environment where the attached functions will be invoked (e.g. in the Comman Window of Octave/Matlab):<br/>
-<i>pkg load statistics;</i>
+<i>pkg load statistics;</i><br/>
 <i>pkg load image;</i>
 
